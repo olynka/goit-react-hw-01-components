@@ -24,6 +24,6 @@ export const App = () => {
       <TransitionHistory items={transactions} />;
     </div>
     
-  );
+  )
 }
 
